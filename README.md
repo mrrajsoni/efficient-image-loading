@@ -12,3 +12,6 @@ This is the best way to handle large number of images so the user's browser does
 
 See how image loads when you scroll the webpage.
 
+
+
+![9331f043-28d6-4198-916c-1a43804e0d0a](https://user-images.githubusercontent.com/34058146/225347623-8b9cf234-e3e4-49b0-a92f-b22be3ac172a.gif)
